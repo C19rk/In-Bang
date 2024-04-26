@@ -5,13 +5,21 @@
 */
 
 /*!
- * The buffer module from node.js, for the browser.
+ * react-paypal-js v8.2.0 (2024-03-20T19:43:57.524Z)
+ * Copyright 2020-present, PayPal, Inc. All rights reserved.
  *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * https://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
  */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /**
  * @license React
@@ -64,7 +72,7 @@
  */
 
 /**
- * @remix-run/router v1.16.0
+ * @remix-run/router v1.15.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -75,7 +83,7 @@
  */
 
 /**
- * React Router DOM v6.23.0
+ * React Router DOM v6.22.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -86,7 +94,7 @@
  */
 
 /**
- * React Router v6.23.0
+ * React Router v6.22.0
  *
  * Copyright (c) Remix Software Inc.
  *
